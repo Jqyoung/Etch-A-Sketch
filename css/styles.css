@@ -6,7 +6,7 @@
 
 .divStyle{
     background-color: gray;
-    border:solid 1px darkgray;
+   border:solid 1px darkgray;
 }
 
 .container{
@@ -14,5 +14,9 @@
     height: 960px;
     
     display:flex;
-    flex-wrap: wrap;   
+    flex-wrap: wrap; 
+}
+
+.rgbStyle{
+    background-color: aqua;
 }
